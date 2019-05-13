@@ -1,8 +1,0 @@
-version: "2"
-plugins:
-  rubocop:
-    enabled: true
-  eslint:
-    enabled: true
-  csslint:
-    enabled: true
